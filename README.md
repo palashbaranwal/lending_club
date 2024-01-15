@@ -19,7 +19,6 @@ You work for a consumer finance company which specialises in lending various typ
 </br>
     As a part of this case-study, we will utilize EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 </p>
-<b> ================================================================================================================================================================================</b>
 
 #### Business Understanding <a name="Understanding"></a>
 
@@ -31,7 +30,6 @@ When a person applies for a loan, there are two types of decisions that could be
 4. <b>Charged-off:</b> Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan  </br>
 5. <b>Loan rejected:</b> The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 </p> 
-<b> ================================================================================================================================================================================</b>
 
 
 #### Business Objectives <a name="Objectives"></a>
@@ -42,10 +40,8 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby <b>cutting down the amount of credit loss</b>. Identification of such applicants using EDA is the aim of this case study. </br></br>
 In other words, <b>the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.</b> </br></br> 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough). </br>
-
- 
 </p> 
-<b> ================================================================================================================================================================================</b>
+
 #### Results Expected <a name="Results"></a>
 <p style='color:purple'>
 1. Write all your code in one well-commented Python file; briefly mention the insights and observations from the analysis </br>
@@ -57,16 +53,13 @@ To develop your understanding of the domain, you are advised to independently re
 </br>
 You need to submit one Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. 
 </p>
-<b> ================================================================================================================================================================================</b>
+
 
 #### Why this project?
-
 This project is a case-study which is done as a part of Executive PG program offered by IIIT- Bengaluru.
-<b> ================================================================================================================================================================================</b>
-
 
 ## Contact
-Created by [@palashbaranwal] - feel free to contact me!
+Created by [@palashbaranwal]
 
 
 <!-- Optional -->
